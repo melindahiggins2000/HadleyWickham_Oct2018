@@ -1,5 +1,5 @@
 ---
-title: "Hadley Wickham Guest Speaker"
+title: "Guest Speaker: Dr. Hadley Wickham "
 author: "Host: Melinda Higgins"
 date: "October 16, 2018: 4:00-5:30 pm"
 output: html_document
@@ -9,11 +9,21 @@ output: html_document
 
 <center>
 
-#### _Emory University Rollins School of Public Health Biostatistics Department & Nell Hodgson Woodruff School of Nursing, Georgia Chapter of the ASA and R-Ladies of Atlanta are Excited to Sponsor:_
+#### _Emory University_
+
+#### _Rollins School of Public Health Biostatistics Department_
+
+#### _Nell Hodgson Woodruff School of Nursing,_
+
+#### _Georgia Chapter of the ASA &_ 
+
+#### _R-Ladies of Atlanta_ 
+
+#### _are Excited to Sponsor:_
 
 ![](HadleyPic.PNG){width=200px} 
 
-## Hadley Wickham 
+## Dr. Hadley Wickham 
 ## Chief Scientist RStudio
 ## Guest Speaker Presentation
 
@@ -28,7 +38,7 @@ output: html_document
 
 #### BIO:
 
-Hadley Wickham is the Chief Scientist at RStudio. He is interested in building tools (computational and cognitive) that make data ingest, preparation, manipulation, visualization and analysis easier. He's developed over 30 R packages, for data analysis (`ggplot2`, `dplyr`, `tidyr`), making frustrating parts of R easier to use (`lubridate` for dates, stringr for strings, `httr` for accessing web APIs), and for streamlining the R package development (`devtools`, `roxygen2`, and `testthat`).
+Dr. Hadley Wickham is the Chief Scientist at RStudio. He is interested in building tools (computational and cognitive) that make data ingest, preparation, manipulation, visualization and analysis easier. He's developed over 30 R packages, for data analysis (`ggplot2`, `dplyr`, `tidyr`), making frustrating parts of R easier to use (`lubridate` for dates, stringr for strings, `httr` for accessing web APIs), and for streamlining the R package development (`devtools`, `roxygen2`, and `testthat`).
 
 #### PRESENTATION SUMMARY:
 
