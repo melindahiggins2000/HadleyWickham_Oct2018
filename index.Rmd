@@ -7,6 +7,8 @@ output: html_document
 
 ---
 
+<center>
+
 #### _Emory University Rollins School of Public Health Biostatistics Department & Nell Hodgson Woodruff School of Nursing, Georgia Chapter of the ASA and R-Ladies of Atlanta are Excited to Sponsor:_
 
 ![](HadleyPic.PNG){width=200px} 
@@ -21,6 +23,8 @@ output: html_document
 
 #### 4:00 - 5:30pm October 16, 2018
 #### Claudia Nance Rollins (CNR) Building Room 1000
+
+</center>
 
 #### BIO:
 
