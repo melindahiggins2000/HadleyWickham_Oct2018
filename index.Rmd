@@ -1,30 +1,48 @@
 ---
 title: "Hadley Wickham Guest Speaker"
-author: "Melinda Higgins"
-date: "October 8, 2018"
+author: "Host: Melinda Higgins"
+date: "October 16, 2018: 4:00-5:30 pm"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+---
 
-## R Markdown
+#### _Emory University Rollins School of Public Health Biostatistics Department & Nell Hodgson Woodruff School of Nursing, Georgia Chapter of the ASA and R-Ladies of Atlanta are Excited to Sponsor:_
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+![](HadleyPic.PNG){width=200px} 
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Hadley Wickham 
+## Chief Scientist RStudio
+## Guest Speaker Presentation
 
-```{r cars}
-summary(cars)
-```
+---
 
-## Including Plots
+## Living a Reproducible Life
 
-You can also embed plots, for example:
+#### 4:00 - 5:30pm October 16, 2018
+#### Claudia Nance Rollins (CNR) Building Room 1000
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+#### BIO:
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Hadley Wickham is the Chief Scientist at RStudio. He is interested in building tools (computational and cognitive) that make data ingest, preparation, manipulation, visualization and analysis easier. He's developed over 30 R packages, for data analysis (`ggplot2`, `dplyr`, `tidyr`), making frustrating parts of R easier to use (`lubridate` for dates, stringr for strings, `httr` for accessing web APIs), and for streamlining the R package development (`devtools`, `roxygen2`, and `testthat`).
+
+#### PRESENTATION SUMMARY:
+
+Dr. Wickham will discuss the benefits for reproducibility on the small scale (e.g. a single scientific paper) which are clear: anything that can be reified and made explicit in code, should be made explicit in code. In this talk, he'll discuss how reproducibility has escaped journal articles in his life and influences almost everything he does. He'll discuss three unexpected venues of reproducibility in his life:
+
+1.	“Writing reproducible books with bookdown, which allows me to generate html, pdf, and epub versions of the text with a press of a key.”
+2.	“Writing reproducible blog posts with blogdown, which makes easy to intermingle code and prose in low-stakes explanations of my work.”
+3.	“Generating reproducible emails to track shared water usage and inform my neighbours when they owe me money!”
+
+He'll also touch on the intersection of reproducibility and software development, highlighting best practices like unit testing, code coverage, and continuous integration.
+
+#### REGISTRATION AND DIRECTIONS
+
+**Directions/Parking:** Link for directions to the Claudia Nance Rollins building and parking [https://www.sph.emory.edu/about/directions-maps/index.html](https://www.sph.emory.edu/about/directions-maps/index.html). 
+
+**Registration Link:** [https://eventactions.com/eareg.aspx?ea=Rsvp&invite=gwump82y45b2ccrggusxhyp5gcm5v88cn8hdhgkyc4wd1e7whw45 ](https://eventactions.com/eareg.aspx?ea=Rsvp&invite=gwump82y45b2ccrggusxhyp5gcm5v88cn8hdhgkyc4wd1e7whw45 ).
+
+
+
+
+
