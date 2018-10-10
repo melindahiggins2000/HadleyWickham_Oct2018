@@ -32,7 +32,7 @@ output: html_document
 ## Living a Reproducible Life
 
 #### 4:00 - 5:30pm October 16, 2018
-#### Claudia Nance Rollins (CNR) Building Room 1000
+#### Nursing Building, 1520 Clifton Road, Atlanta, GA 30322, P01 Auditorium
 
 </center>
 
@@ -52,7 +52,7 @@ He'll also touch on the intersection of reproducibility and software development
 
 #### REGISTRATION AND DIRECTIONS
 
-**Directions/Parking:** Link for directions to the Claudia Nance Rollins building and parking [https://www.sph.emory.edu/about/directions-maps/index.html](https://www.sph.emory.edu/about/directions-maps/index.html). 
+**Directions/Parking:** Link for directions to the Nursing Building [http://www.nursing.emory.edu/about/maps-directions.html](http://www.nursing.emory.edu/about/maps-directions.html).
 
 **Registration Link:** [https://eventactions.com/eareg.aspx?ea=Rsvp&invite=gwump82y45b2ccrggusxhyp5gcm5v88cn8hdhgkyc4wd1e7whw45 ](https://eventactions.com/eareg.aspx?ea=Rsvp&invite=gwump82y45b2ccrggusxhyp5gcm5v88cn8hdhgkyc4wd1e7whw45 ).
 
