@@ -32,7 +32,7 @@ output: html_document
 ## Living a Reproducible Life
 
 #### 4:00 - 5:30pm October 16, 2018
-#### Nursing Building, 1520 Clifton Road, Atlanta, GA 30322, P01 Auditorium
+#### Woodruff Health Science Center Administration Building (WHSCAB) Auditorium, 1440 Clifton Road, Atlanta, GA 30322
 
 </center>
 
